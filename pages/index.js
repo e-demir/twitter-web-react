@@ -3,9 +3,9 @@ import Button from "../components/button"
 
 function HomePage() {
     return (
-    <div>
-        <h1>Welcome to Next.js!</h1>
-        <Button>Merhaba</Button>
-    </div>)
+        <div>
+            <h1>Welcome to Next.js!</h1>
+            <Button>Merhaba</Button>ßß
+        </div>)
 }
 export default HomePage
